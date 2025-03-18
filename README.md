@@ -1,5 +1,6 @@
 
-![Untitled design (4)](https://github.com/user-attachments/assets/dc029fc3-dc80-4096-9cb7-5f2102f52019)
+![saniya-ansari](https://github.com/user-attachments/assets/85d1577d-03de-42a0-ac0e-6f5e220ee050)<br>
+
 <h3 align="left"><br>🚀 Data Scientist | Business Intelligence Developer</h3>
 
 ---
