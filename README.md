@@ -1,9 +1,9 @@
-<h1 align="center">Hi there, I'm Saniya Ansari! 👋</h1>
-<h3 align="center">🚀 Data Scientist | Business Intelligence Developer</h3>
+<h1 align="left">Hi there, I'm Saniya Ansari! 👋</h1>
+<h3 align="left">🚀 Data Scientist | Business Intelligence Developer</h3>
 
 ---
 
-<table align="center" width="100%" style="border-radius: 0px; background-color: #3776AB; padding: 20px; color: white; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+<table align="left" width="100%" style="border-left: 8px solid #3776AB; background-color: #f8f9fa; padding: 20px; color: black; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
   <tr>
     <td>
       <h3>🌟 About Me</h3>
@@ -15,11 +15,11 @@
 
 ---
 
-<table align="center" width="100%" style="border-radius: 0px; background-color: #F2C811; padding: 20px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+<table align="left" width="100%" style="display: flex; justify-content: space-between;">
   <tr>
-    <td align="center">
-      <h3>🚀 Tech Stack & Tools</h3>
-      <p>
+    <td width="48%" style="border-left: 8px solid #F2C811; background-color: #f8f9fa; padding: 20px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+      <h3 align="left">🚀 Tech Stack & Tools</h3>
+      <p align="left">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=postgresql&logoColor=white">
         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
@@ -28,16 +28,10 @@
         <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
       </p>
     </td>
-  </tr>
-</table>
-
----
-
-<table align="center" width="100%" style="border-radius: 0px; background-color: #F24E1E; padding: 20px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
-  <tr>
-    <td align="center">
-      <h3>📫 Let's Connect</h3>
-      <p>
+    
+  <td width="48%" style="border-left: 8px solid #F24E1E; background-color: #f8f9fa; padding: 20px; color: pink; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+      <h3 align="left">📫 Let's Connect!</h3>
+      <p align="left">
         <a href="https://www.linkedin.com/in/saniya-ansari/">
           <img src="https://img.shields.io/badge/LinkedIn-3776AB?style=for-the-badge&logo=linkedin&logoColor=white">
         </a>
@@ -50,5 +44,3 @@
 </table>
 
 ---
-
-<p align="center">✨ Always curious, always learning!</p>
