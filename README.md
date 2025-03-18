@@ -1,4 +1,5 @@
-<img src=![Welcome To](https://github.com/user-attachments/assets/62060fd2-8ccd-4617-8715-190bdb4b2bfa)><br>
+
+![Untitled design (4)](https://github.com/user-attachments/assets/dc029fc3-dc80-4096-9cb7-5f2102f52019)
 <h3 align="left"><br>🚀 Data Scientist | Business Intelligence Developer</h3>
 
 ---
