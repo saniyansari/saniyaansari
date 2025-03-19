@@ -34,7 +34,7 @@
   <td width="48%" style="border-left: 8px solid #F24E1E; background-color: #f8f9fa; padding: 20px; color: pink; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
       <h3 align="left">📫 Let's Connect!</h3>
       <p align="left">
-        <a href="https://www.linkedin.com/in/saniya-ansari/">
+        <a href="https://www.linkedin.com/in/saniya-ansari-analyst/">
           <img src="https://img.shields.io/badge/LinkedIn-3776AB?style=for-the-badge&logo=linkedin&logoColor=white">
         </a>
         <a href="https://medium.com/@saniyaansari">
