@@ -37,7 +37,7 @@
         <a href="https://www.linkedin.com/in/saniya-ansari-analyst/">
           <img src="https://img.shields.io/badge/LinkedIn-3776AB?style=for-the-badge&logo=linkedin&logoColor=white">
         </a>
-        <a href="https://medium.com/@saniyaansari">
+        <a href="https://medium.com/@saniya.zubair.ansari">
           <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white">
         </a>
       </p>
